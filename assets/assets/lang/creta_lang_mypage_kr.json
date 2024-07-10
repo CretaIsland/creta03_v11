@@ -70,7 +70,7 @@
     "teamExit": "팀에서 나가기",
     "deleteTeam": "팀 삭제",
     "throwBTN": "내보내기",
-    "addMemberBTN": "팀원 추가",
+    "addMemberBTN": "팀원 관리",
     "exitBTN": "나가기",
     "deleteTeamBTN": "팀 삭제",
     "cretaGradeList": ["크레타 루키", "크레타 스타", "크레타 셀럽"],
@@ -142,6 +142,16 @@
     "dollor" : "원",
     "peopleNo" : "인원",
     "people" : "명",
+
+    "shouldChangePassword": "반드시 비밀번호를 변경한 후 사용해주세요.",
+    "noTeam" : " 소속된 팀이 없습니다.",
+
+    "memberAuth" :  "팀원 권한",
+    "managerAuth" :  "관리자 권한",
+
+    "enterpriseCantbePrivateTeamMember" :  "엔터프라이즈의 팀원입니다.  엔터프라이즈의 소속 회원은 개인회원의 팀에 소속될 수 없습니다. 이 사람의 다른 email 로 시도하십시오.",
+    "notRegisteredMember" : "아직 회원 가입되지 않은 이메일입니다. 회원 가입을 한 사람만 팀원이 될 수 있습니다.",
+    "memberLimitExceed" : "팀원은 4명까지만 추가할 수 있습니다.  더 이상 추가할 수 없습니다.",
 
 
     "end"  :  "끝"

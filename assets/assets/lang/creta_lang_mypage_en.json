@@ -101,7 +101,7 @@
     "teamExit": "Exit from the team",
     "deleteTeam": "Delete team",
     "throwBTN": "Export",
-    "addMemberBTN": "Add a team member",
+    "addMemberBTN": "Manage member",
     "exitBTN": "Exit",
     "deleteTeamBTN": "Delete team",
     "cretaGradeList": [
@@ -182,6 +182,16 @@
     "dollor": "Dollars",
     "peopleNo": "Number of People",
     "people" : "people",
-  
-    "endOfList": "End of List"
+
+    "shouldChangePassword": "Be sure to change your password before using it.",
+    "noTeam" : "No team to belong to.",
+
+    "memberAuth" :  "Member Authority",
+    "managerAuth" :  "Manager Authority",
+
+    "enterpriseCantbePrivateTeamMember" :  "This person is a member of the enterprise. Members of the enterprise cannot belong to the team of individual members. Please try with another email.",
+    "notRegisteredMember" : "This is an email address that has not yet been registered. Only those who have registered can become team members.",
+    "memberLimitExceed" : "Only up to 4 team members can be added. You cannot add more than this.",
+
+      "endOfList": "End of List"
 }
